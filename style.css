@@ -41,12 +41,13 @@ body {
 }
 
 .four-card-header {
-  margin-top: 45px;
+  margin-top: 55px;
 }
 
 .title {
   font-size: 35px;
   font-weight: var(--fw-1);
+  color: var(--Very-Dark-Blue);
 }
 
 .bold {
